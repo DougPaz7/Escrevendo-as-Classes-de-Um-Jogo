@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Escrevendo-as-Classes-de-Um-Jogo/1.0.0": {
+        "runtime": {
+          "Escrevendo-as-Classes-de-Um-Jogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escrevendo-as-Classes-de-Um-Jogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

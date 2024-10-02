@@ -1,0 +1,15 @@
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\bin\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.exe
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\bin\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.deps.json
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\bin\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.runtimeconfig.json
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\bin\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.dll
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\bin\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.pdb
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.AssemblyInfoInputs.cache
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.AssemblyInfo.cs
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.sourcelink.json
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.dll
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\refint\Escrevendo-as-Classes-de-Um-Jogo.dll
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.pdb
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\Escrevendo-as-Classes-de-Um-Jogo.genruntimeconfig.cache
+C:\Users\Adilson\Documents\Escrevendo-as-Classes-de-Um-Jogo\obj\Debug\net8.0\ref\Escrevendo-as-Classes-de-Um-Jogo.dll
