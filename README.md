@@ -29,3 +29,75 @@ O mago atacou usando magia.
 O guerreiro atacou usando espada.
 O monge atacou usando artes marciais.
 O ninja atacou usando shuriken.
+
+```
+## Classe Herói
+```
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Escrevendo_as_Classes_de_Um_Jogo.models
+{
+    public class Heroi
+    {
+        public Heroi(string nome, string tipo)
+        {
+            Nome = nome;
+            Tipo = tipo;
+        }
+        
+        public string Nome { get; set; }
+        public string Tipo { get; set; }
+
+        public void Atacar()
+        {
+            string ataque = "";
+
+            if (Tipo == "Mago")
+            {
+                ataque = "magia";
+            }
+            else if (Tipo == "Guerreiro")
+            {
+                ataque = "espada";
+            }
+            else if (Tipo == "Monge")
+            {
+                ataque = "artes marciais";
+            }
+            else
+            {
+                ataque = "shuriken";
+            }
+
+            Console.WriteLine();
+            Console.WriteLine($"O {Nome} atacou usando -{ataque}-");
+            Console.WriteLine();
+        }
+    }
+}
+
+```
+## Program
+```
+
+using Escrevendo_as_Classes_de_Um_Jogo.models;
+
+Console.Write("Digite o nome do seu herói: ");
+string nome = Console.ReadLine();
+
+Console.Write(@"
+============
+|Mago      |
+|Guerreiro |
+|Monge     | 
+|Ninja     |
+============
+Digite o tipo do seu herói: ");
+string tipo = Console.ReadLine();
+
+Heroi h = new Heroi(nome, tipo);
+h.Atacar();
